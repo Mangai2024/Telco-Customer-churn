@@ -39,9 +39,9 @@ Correlation analysis
 
 Service and contract impact on churn
 
-Modeling and Evaluation
+**Modeling and Evaluation**
 
-Models: Logistic Regression, Random Forest, Gradient Boosting, XGBoost
+**Models: **Logistic Regression, Random Forest**
 
 Metrics: Accuracy, Precision, Recall, F1-score, ROC-AUC
 
@@ -49,7 +49,7 @@ Technologies
 
 Language: Python
 
-Libraries: Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn
+**Libraries: Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn**
 
 Environment: Jupyter Notebook
 
