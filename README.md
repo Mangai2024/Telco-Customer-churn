@@ -1,11 +1,11 @@
-Telco Customer Churn Prediction
-Overview
+**Telco Customer Churn Prediction**
+**Overview**
 
 Customer churn is a major challenge in the telecom industry, where retaining existing customers is often more cost-effective than acquiring new ones.
 
 This project applies machine learning models to predict whether a customer will churn based on their demographic, account, and service details. By identifying churn-prone customers, telecom companies can take proactive measures to improve retention.
 
-Dataset
+**Dataset**
 
 Source: IBM Telco Customer Churn Dataset (Kaggle)
 
@@ -13,7 +13,7 @@ Shape: 7,043 rows × 21 columns
 
 Target Variable: Churn (Yes / No)
 
-Features include:
+**Features include:**
 
 Demographics: gender, senior citizen, partner, dependents
 
@@ -21,7 +21,7 @@ Account Info: tenure, contract type, payment method, monthly charges
 
 Services: phone service, internet service, streaming, security options
 
-Workflow
+**Workflow**
 
 Data Cleaning and Preprocessing
 
@@ -59,9 +59,9 @@ Best Model: XGBoost
 
 Performance:
 
-Accuracy: ~82%
+**Accuracy: ~82%**
 
-ROC-AUC: ~0.85
+**ROC-AUC: ~0.85**
 
 Balanced Precision and Recall
 
